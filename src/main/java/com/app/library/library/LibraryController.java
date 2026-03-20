@@ -1,4 +1,4 @@
-package com.app.library.library.controller;
+package com.app.library.library;
 
 import com.app.library.library.model.Book;
 import com.app.library.library.model.Member;
